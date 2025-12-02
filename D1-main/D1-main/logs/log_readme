@@ -1,0 +1,4 @@
+d1_100_epochs_augment_slc = D1 - 100 Epochs - Augment - SLC (dropout = 0.5)
+d1_100_epochs_augment_mlp = D1 - 100 Epochs - Augment - MLP
+
+d2_100_epochs_augment_true = D2 - 100 Epochs - Augment - SLC
